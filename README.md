@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3660-jump-game-ix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3660-jump-game-ix) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Backtracking
 |  |
