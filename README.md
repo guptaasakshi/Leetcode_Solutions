@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3660-jump-game-ix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 ## Design
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
