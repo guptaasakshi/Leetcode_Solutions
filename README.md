@@ -187,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
