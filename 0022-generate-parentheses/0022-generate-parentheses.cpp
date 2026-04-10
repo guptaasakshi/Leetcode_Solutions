@@ -1,27 +1,47 @@
-class Solution {
-public:
-    vector<string> result;
+	class Solution {
 
-    void backtrack(int open, int close, int n, string current) {
-        // base case
-        if (current.length() == 2 * n) {
-            result.push_back(current);
-            return;
-        }
+	public:
 
-        // add '('
-        if (open < n) {
-            backtrack(open + 1, close, n, current + '(');
-        }
+	    vector<string> generateParenthesis(int n) {
 
-        // add ')'
-        if (close < open) {
-            backtrack(open, close + 1, n, current + ')');
-        }
-    }
+	        vector<string> res;
 
-    vector<string> generateParenthesis(int n) {
-        backtrack(0, 0, n, "");
-        return result;
-    }
-};
+	        dfs(0, 0, "", n, res);
+
+	        return res;        
+
+	    }
+
+	 
+
+	private:
+
+	    void dfs(int openP, int closeP, string s, int n, vector<string>& res) {
+
+	        if (openP == closeP && openP + closeP == n * 2) {
+
+	            res.push_back(s);
+
+	            return;
+
+	        }
+
+	 
+
+	        if (openP < n) {
+
+	            dfs(openP + 1, closeP, s + "(", n, res);
+
+	        }
+
+	 
+
+	        if (closeP < openP) {
+
+	            dfs(openP, closeP + 1, s + ")", n, res);
+
+	        }
+
+	    }
+
+	};
