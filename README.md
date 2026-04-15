@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0207-course-schedule) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -267,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
