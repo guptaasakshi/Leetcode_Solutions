@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Sliding Window
 |  |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0169-majority-element) |
