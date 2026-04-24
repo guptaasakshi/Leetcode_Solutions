@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2833-furthest-point-from-origin](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [2833-furthest-point-from-origin](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Database
 |  |
