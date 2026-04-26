@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0994-rotting-oranges](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1386-cinema-seat-allocation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2615-sum-of-distances) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Design
 |  |
 | ------- |
@@ -295,16 +297,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
