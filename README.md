@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [0560-subarray-sum-equals-k](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0994-rotting-oranges](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1386-cinema-seat-allocation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Recursion
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0198-house-robber) |
+| [0396-rotate-function](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3225-maximum-score-from-grid-operations](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3660-jump-game-ix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3660-jump-game-ix) |
