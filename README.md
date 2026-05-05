@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [0560-subarray-sum-equals-k](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -303,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2833-furthest-point-from-origin](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Database
@@ -397,4 +403,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
