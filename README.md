@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0239-sliding-window-maximum](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
@@ -411,4 +414,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
