@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0146-lru-cache) |
 ## Math
 |  |
