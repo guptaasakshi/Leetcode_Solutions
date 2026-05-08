@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0596-classes-with-at-least-5-students) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1148-article-views-i) |
 | [1517-find-users-with-valid-e-mails](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1527-patients-with-a-condition) |
