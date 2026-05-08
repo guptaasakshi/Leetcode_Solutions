@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3660-jump-game-ix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Recursion
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2615-sum-of-distances](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2615-sum-of-distances) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## String
 |  |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union-Find
 |  |
 | ------- |
@@ -427,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
