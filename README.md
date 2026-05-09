@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1914-cyclically-rotating-a-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1914-cyclically-rotating-a-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0043-multiply-strings) |
+| [1914-cyclically-rotating-a-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
