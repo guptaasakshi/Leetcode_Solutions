@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0057-insert-interval) |
+| [0068-text-justification](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0796-rotate-string](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0043-multiply-strings) |
+| [0068-text-justification](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0068-text-justification) |
 | [1914-cyclically-rotating-a-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Prefix Sum
