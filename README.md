@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0788-rotated-digits) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
