@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## String
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sliding Window
 |  |
 | ------- |
