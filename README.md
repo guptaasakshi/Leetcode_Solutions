@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3161-block-placement-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2540-minimum-common-value](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
@@ -507,4 +509,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
