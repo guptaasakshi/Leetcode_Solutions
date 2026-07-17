@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3161-block-placement-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3161-block-placement-queries) |
+| [3312-sorted-gcd-pair-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2833-furthest-point-from-origin](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2833-furthest-point-from-origin) |
+| [3312-sorted-gcd-pair-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Database
 |  |
@@ -550,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1871-jump-game-vii) |
 | [2615-sum-of-distances](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3225-maximum-score-from-grid-operations) |
+| [3312-sorted-gcd-pair-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Tree
 |  |
@@ -590,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -610,4 +617,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1291-sequential-digits) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
