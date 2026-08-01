@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0994-rotting-oranges](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0788-rotated-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0788-rotated-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1340-jump-game-v) |
@@ -661,4 +665,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
