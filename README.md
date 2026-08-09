@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
