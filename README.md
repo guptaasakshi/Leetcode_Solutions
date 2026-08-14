@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1004-max-consecutive-ones-iii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2540-minimum-common-value](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0146-lru-cache) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -746,5 +750,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
