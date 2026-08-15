@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0396-rotate-function](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0396-rotate-function](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
@@ -665,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Geometry
 |  |
 | ------- |
