@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [2029-stone-game-ix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -738,22 +742,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
