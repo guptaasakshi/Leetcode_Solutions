@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1476-subrectangle-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1476-subrectangle-queries) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1563-stone-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1476-subrectangle-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1476-subrectangle-queries) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0460-lfu-cache) |
+| [1476-subrectangle-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1476-subrectangle-queries) |
 | [2043-simple-bank-system](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2043-simple-bank-system) |
 | [2080-range-frequency-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2080-range-frequency-queries) |
 ## Doubly-Linked List
