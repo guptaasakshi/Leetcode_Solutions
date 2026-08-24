@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1563-stone-game-v) |
 | [1871-jump-game-vii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [2615-sum-of-distances](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -776,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -784,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -791,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
