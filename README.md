@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2043-simple-bank-system](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2043-simple-bank-system) |
 | [2080-range-frequency-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2080-range-frequency-queries) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
