@@ -835,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3161-block-placement-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3161-block-placement-queries) |
 ## Data Stream
 |  |
 | ------- |
