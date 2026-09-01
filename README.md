@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1914-cyclically-rotating-a-grid) |
+| [1929-concatenation-of-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1914-cyclically-rotating-a-grid) |
+| [1929-concatenation-of-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2043-simple-bank-system](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2043-simple-bank-system) |
 | [2553-separate-the-digits-in-an-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
