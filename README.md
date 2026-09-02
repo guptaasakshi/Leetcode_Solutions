@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1345-jump-game-iv) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2043-simple-bank-system](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2043-simple-bank-system) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1340-jump-game-v) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0274-h-index) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Randomized
 |  |
