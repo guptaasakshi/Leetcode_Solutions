@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1340-jump-game-v) |
