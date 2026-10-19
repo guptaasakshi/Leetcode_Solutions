@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2043-simple-bank-system](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2043-simple-bank-system) |
 | [2080-range-frequency-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2080-range-frequency-queries) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2080-range-frequency-queries](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2080-range-frequency-queries) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
