@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3660-jump-game-ix](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/guptaasakshi/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
 |  |
